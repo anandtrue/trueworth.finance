@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "357784097149",
+    "firebase_url": "https://linkd1-4e3a6-default-rtdb.firebaseio.com",
+    "project_id": "linkd1-4e3a6",
+    "storage_bucket": "linkd1-4e3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357784097149:android:d70409b3fcd259ff81bc14",
+        "android_client_info": {
+          "package_name": "com.example.linkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357784097149-ng28taj1uac7q15do6ibtp26nepgm2nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.linkd",
+            "certificate_hash": "c21ccb0a6648e64656a63a5e9d3725a68404963a"
+          }
+        },
+        {
+          "client_id": "357784097149-5i4q0ef9lcjikfhi0mquc0v7l6bq390f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0Goe1o3-c57FkymlIsDcfj0KvOgU0ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357784097149-5i4q0ef9lcjikfhi0mquc0v7l6bq390f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357784097149:android:e91de4b3c51ef9fe81bc14",
+        "android_client_info": {
+          "package_name": "com.newspaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357784097149-5i4q0ef9lcjikfhi0mquc0v7l6bq390f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0Goe1o3-c57FkymlIsDcfj0KvOgU0ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357784097149-5i4q0ef9lcjikfhi0mquc0v7l6bq390f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357784097149:android:8eb62b3c2becf28881bc14",
+        "android_client_info": {
+          "package_name": "com.trueworthfinance.trueworthfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357784097149-sgas37fd84lprmahe3o55gimgnolgftg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trueworthfinance.trueworthfinance",
+            "certificate_hash": "bb596c746b8fa5674eea3d771c25161bf3c78937"
+          }
+        },
+        {
+          "client_id": "357784097149-5i4q0ef9lcjikfhi0mquc0v7l6bq390f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0Goe1o3-c57FkymlIsDcfj0KvOgU0ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357784097149-5i4q0ef9lcjikfhi0mquc0v7l6bq390f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
